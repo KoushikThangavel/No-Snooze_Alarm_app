@@ -18,7 +18,4 @@ Built with **Android Studio (Java)**.
 - **Framework:** Android SDK  
 - **IDE:** Android Studio  
 
----
 
-## 📱 Screenshots
-(Add screenshots of your app here once ready)  
